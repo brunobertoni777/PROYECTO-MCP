@@ -1,0 +1,37 @@
+[
+  {
+    "id": "teoria_1900",
+    "titulo": "Teoría de 1900: origen simbólico y presencia humana previa",
+    "contenido": "Durante muchos años se sostuvo que Las Varillas nació en 1900, una fecha simbólica y tradicional. La defienden los integrantes del Centro de Estudios Históricos Parada KM 81: Rubén Arce, Irene Peralta de Baldrich y Oscar Valletto. Argumentan que ya existía población estable en la zona antes de 1900, con estancias, familias criollas y actividad rural previa a la llegada del ferrocarril. Como evidencia citan un documento de 1853 en el que el gobernador de Córdoba nombra a Don Ramón Álvarez primer teniente para cuidar la frontera desde Río Segundo hasta esta zona. Señalan además que la mención más antigua del nombre Las Varillas data de 1813, cuando un vecino de Villa del Rosario solicitó un terreno en ese paraje. Por último, 1900 fue la referencia usada en celebraciones oficiales pasadas, como el Cincuentenario de 1950, lo que consolidó su valor en la memoria colectiva.",
+    "tags": ["1900", "Parada KM 81", "Centro de Estudios Históricos", "Rubén Arce", "Irene Peralta de Baldrich", "Oscar Valletto", "1853", "1813", "Ramón Álvarez", "Cincuentenario", "población previa", "simbólico"],
+    "metadata": {"criterio": "Demográfico (presencia de población antes de 1900)", "fechas_clave": ["1813", "1853", "1900", "1950"]}
+  },
+  {
+    "id": "teoria_1903",
+    "titulo": "Teoría de 1903: acto fundacional documentado",
+    "contenido": "Otra postura ubica el origen en 1903, cuando hubo un acto concreto de organización del pueblo. La impulsan Omar Rubiolo y Valter Dabbene, quienes consideran fundador a José Medardo Álvarez. Según esta posición, en 1903 se decidió de forma explícita crear un poblado alrededor de la futura estación ferroviaria. La principal evidencia es la escritura de donación de tierras del 26 de marzo de 1903, hecha por la familia Álvarez Luque para la formación del pueblo, a la que se suman el primer plano urbano de 1903 y otras escrituras de cesión de terrenos para el trazado del ferrocarril. En años recientes, los historiadores Carlos Alfredo Ferreyra Bertone y Sergio Ariel Marchetti reforzaron esta interpretación con documentación que demuestra una voluntad expresa de fundar un asentamiento organizado, lo que para ellos constituye el verdadero acto fundacional.",
+    "tags": ["1903", "Valter Dabbene", "Omar Rubiolo", "José Medardo Álvarez", "Álvarez Luque", "donación de tierras", "escritura", "plano urbano", "Ferreyra Bertone", "Marchetti", "acto fundacional", "26 de marzo"],
+    "metadata": {"criterio": "Jurídico-documental (donación de tierras y plano urbano)", "fechas_clave": ["26 de marzo de 1903"]}
+  },
+  {
+    "id": "teoria_1904",
+    "titulo": "Teoría de 1904: llegada del ferrocarril",
+    "contenido": "Una tercera interpretación ubica el nacimiento de Las Varillas en 1904, ligado a la llegada del ferrocarril. Según esta mirada, el pueblo se consolidó cuando comenzó a funcionar la estación y pasó el primer tren, hecho que impulsó el crecimiento poblacional, el comercio y la llegada de inmigrantes. La evidencia se apoya en registros ferroviarios y en la observación histórica de que muchas localidades del interior argentino se desarrollaron a partir del establecimiento del tren. Desde este enfoque, el ferrocarril es el verdadero motor del nacimiento urbano.",
+    "tags": ["1904", "ferrocarril", "tren", "estación", "inmigrantes", "comercio", "registros ferroviarios"],
+    "metadata": {"criterio": "Económico-funcional (llegada del ferrocarril)", "fechas_clave": ["1904"]}
+  },
+  {
+    "id": "fecha_oficial",
+    "titulo": "Fecha oficial de conmemoración: 7 de octubre",
+    "contenido": "No existe un acta formal de fundación ni una fecha histórica única e indiscutida. Sin embargo, la ciudad tiene una fecha oficial de conmemoración establecida en la Carta Orgánica Municipal: el 7 de octubre, día de la festividad de Nuestra Señora del Rosario, patrona local. Se usa para los actos cívicos y celebraciones oficiales, uniendo la tradición religiosa con la identidad histórica de la comunidad.",
+    "tags": ["7 de octubre", "Carta Orgánica", "Nuestra Señora del Rosario", "patrona", "aniversario", "fecha oficial", "acta de fundación"],
+    "metadata": {"criterio": "Institucional", "fechas_clave": ["7 de octubre"]}
+  },
+  {
+    "id": "criterios_historiograficos",
+    "titulo": "Resumen: tres criterios historiográficos en debate",
+    "contenido": "El debate refleja distintos criterios: el demográfico (presencia de población antes de 1900, postura de Parada KM 81), el jurídico-documental (donación de tierras y plano urbano en 1903, postura de Rubiolo, Dabbene, Ferreyra Bertone y Marchetti) y el económico-funcional (llegada del ferrocarril en 1904). Cada uno tiene defensores, documentos y argumentos propios, lo que convierte al origen de la ciudad en un tema abierto al análisis crítico de las fuentes.",
+    "tags": ["resumen", "tres teorías", "criterios", "debate", "1900", "1903", "1904", "historiografía"],
+    "metadata": {"criterio": "Síntesis", "fechas_clave": ["1900", "1903", "1904"]}
+  }
+]

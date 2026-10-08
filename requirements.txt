@@ -1,0 +1,7 @@
+mcp
+requests
+fastapi
+uvicorn
+websockets
+python-multipart
+pydantic
